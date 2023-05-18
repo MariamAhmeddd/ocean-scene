@@ -22,8 +22,7 @@ The animation includes dynamic camera movements that take the viewer on virtual 
 </ul>
 
 ## Video
-
-[![Project Video](https://img.youtube.com/vi/4SuKPg8XxyQ/0.jpg)]([https://youtu.be/4SuKPg8XxyQ])
+[![Project Video](https://img.youtube.com/vi/cJ-UnYZZ5fw/0.jpg)](https://www.youtube.com/watch?v=cJ-UnYZZ5fw)
 
 ## Requirements
 To use this Blender project, you will need:
