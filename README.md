@@ -1,4 +1,4 @@
-# ocean-scene
+# Ocean Scene
 ## Description
 This Blender project is a 3D model for a sun's rays reflecting off the water's surface and casting a warm glow on the scene.
 The animation includes dynamic camera movements that take the viewer on virtual journey through the scene,  as well as textures and materials for realistic rendering.
@@ -16,11 +16,14 @@ The animation includes dynamic camera movements that take the viewer on virtual 
       <li>The Float (inflatable ring)</li>
     </ul>
   </li>
+  <li>Textures and materials for realistic rendering</li>
+  <li>Lighting setup for easy rendering</li>
+  <li>Camera angles for showcasing the scene from different perspectives</li>
 </ul>
 
-Textures and materials for realistic rendering
-Lighting setup for easy rendering
-Camera angles for showcasing the scene from different perspectives
+## Video
+
+[![Project Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://youtu.be/4SuKPg8XxyQ])
 
 ## Requirements
 To use this Blender project, you will need:
