@@ -23,7 +23,7 @@ The animation includes dynamic camera movements that take the viewer on virtual 
 
 ## Video
 
-[![Project Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://youtu.be/4SuKPg8XxyQ])
+[![Project Video](https://img.youtube.com/vi/4SuKPg8XxyQ/0.jpg)]([https://youtu.be/4SuKPg8XxyQ])
 
 ## Requirements
 To use this Blender project, you will need:
@@ -40,7 +40,7 @@ To use this Blender project, you will need:
  <li>Navigate to the folder where you downloaded the project and select the "project.blend" file.</li>
  <li>Select "File" > "External Data" > "Find Missing Files" .</li>
  <li>Navigate to the folder where you downloaded the project.</li>
- <li>Use the camera angles provided to showcase the building from different perspectives.</li>
+ <li>Use the camera angles provided to showcase the scene from different perspectives.</li>
  <li>Render the scene using the provided lighting setup and materials.</li>
 </ul>
 
