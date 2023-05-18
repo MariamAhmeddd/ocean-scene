@@ -50,5 +50,4 @@ This project was created by:
 - [**Nour Ayman**](https://github.com/NourAyman10)
 - [**Ruqaiyah Mohammed**](https://github.com/25Ruq)
 - [**Heba Tarek**](https://github.com/hebatarekkamal) 
-- [**Haneen Ibrahim**](https://github.com/HaneenIbrahim2)
 - [**Mariam Ahmed**](https://github.com/MariamAhmeddd)
