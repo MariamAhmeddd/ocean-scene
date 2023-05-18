@@ -32,16 +32,14 @@ To use this Blender project, you will need:
 </ul>
 
 ## Usage
-<ul>
- <li>Download file "project.zip" and "6657898.jpg" on local machine.</li>
- <li>Unzip file "project.zip"</li> 
- <li>Open Blender and select "File" > "Open".</li>
- <li>Navigate to the folder where you downloaded the project and select the "project.blend" file.</li>
- <li>Select "File" > "External Data" > "Find Missing Files" .</li>
- <li>Navigate to the folder where you downloaded the project.</li>
- <li>Use the camera angles provided to showcase the scene from different perspectives.</li>
- <li>Render the scene using the provided lighting setup and materials.</li>
-</ul>
+ - Download file `project.zip` and `6657898.jpg` on local machine.
+ - Unzip file `project.zip`. 
+ - Open Blender and select `File` > `Open`.
+ - Navigate to the folder where you downloaded the project and select the `project.blend` file.
+ - Select `File` > `External Data` > `Find Missing Files`.
+ - Navigate to the folder where you downloaded the project.
+ - Use the camera angles provided to showcase the scene from different perspectives.
+ - Render the scene using the provided lighting setup and materials.
 
 ## Credits
 This project was created by:
